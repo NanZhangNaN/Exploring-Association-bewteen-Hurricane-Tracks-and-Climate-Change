@@ -1,4 +1,4 @@
-# ADS Project 1:  R Notebook on the history of philosophy
+# Project 1: Exploring Association bewteen Hurricane Tracks and Climate Change
 
 ### Code dev/lib Folder
 
